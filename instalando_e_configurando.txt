@@ -1,0 +1,3 @@
+Foi a parte mais fácil, não precisei utilizar muitos comandos para aprender essa parte do curso.
+
+Eu já havia utilizado git antes, mas nunca tive uma base boa, tudo que fazia era por intuição ou aulas rápidas na internet.
