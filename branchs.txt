@@ -1,0 +1,3 @@
+Para não altera o arquivo principal na branch master, criar branches do arquivo principal e fazer as devidas alterações é uma ótima forma de
+fazer as devidas alterações ou adições sem que interfira no trabalho de outra pessoa que possa estar trabalhando no mesmo arquino e no mesmo
+momento.
