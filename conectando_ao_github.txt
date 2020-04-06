@@ -1,0 +1,2 @@
+Para conectar no Github basta seguir as informações que o prórpio Github fornece quando você cria um repositório. Inclusive você consegue
+dar um pull request e merge no próprio Github.
