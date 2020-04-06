@@ -1,0 +1,4 @@
+Git é um ótima ferramenta para o controle de versões
+
+Cada vez que aprendo mais sobre tecnologia, fico ainda mais animado em como será meu resultado final depois de algumas semanas no curso de
+Fullstack da OneBitCode.
