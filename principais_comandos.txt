@@ -1,0 +1,17 @@
+git init -> inicia o git na pasta
+git add file -> adiciona o arquivo desejado no stage
+git add . -> adiciona todos os arquivos da pasta no stage
+git commit -m "text" -> prepara o arquivo para ser enviado ao repositório
+git diff -> mostra as differenças entre o arquivo novo e antigo
+git diff --name-only -> mostra o nome do arquivo modificado
+git log -> mostra os ultimos commits
+git checkout -b my_branch -> cria e entra na branch my_branch
+git push origin master -> envia os commits para o repositorio master do github
+git push origin branch_name -> envia os commits da branch para o repositório do github
+git clone -> clona o repositório do github
+git pull origin master -> atualiza o repositório na máquina
+git commit --amend -> altera o commit
+git reset HEAD file -> Tira o arquivo do stage
+git checkout -- file -> retorna o arquivo para como ele era no último commit
+
+
